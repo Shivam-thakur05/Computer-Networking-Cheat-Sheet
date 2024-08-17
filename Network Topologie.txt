@@ -1,0 +1,17 @@
+Bus Topology	
+A bus topology, also called a line topology, is a type of network topology in which all network devices are connected through a central RJ-45 network cable or coaxial cable.
+
+Ring Topology	
+A ring topology is a type of network topology in which each device is connected to two other devices on either side using RJ-45  or coaxial cables.
+
+Star Topology	
+A star topology is a network topology in which each element of the network is physically connected to a central node such as a router, hub, or switch. In a star topology, hubs act as servers, and connecting nodes act as clients.
+
+Mesh Topology	
+In a mesh topology, each node is connected to at least one other node and often to multiple nodes. Each node can send and receive messages from other nodes.
+
+Tree Topology	
+A tree topology is a hybrid network topology in which star networks are interconnected by bus networks. Tree networks are hierarchical and each node can have any number of child nodes.
+
+Hybrid Topology	
+A hybrid topology is a type of network topology that uses two or more different network topologies. These topologies can include mixed bus topologies, mesh topologies, ring topologies, star topologies, and tree topologies.
